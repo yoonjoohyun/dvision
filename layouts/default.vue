@@ -6,7 +6,7 @@
         <div class="menu_box_pc">
             <ul>
                 <li class="menu">dvision</li>
-                <li class="menu">orange</li>
+                <li class="menu">digimon</li>
                 <li class="menu">yellow</li>
                 <li class="menu">green</li>
                 <li class="menu">blue</li>
