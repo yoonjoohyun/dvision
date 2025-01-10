@@ -5,7 +5,7 @@
         </div>
         <div class="menu_box_pc">
             <ul>
-                <li class="menu">red</li>
+                <li class="menu">dvision</li>
                 <li class="menu">orange</li>
                 <li class="menu">yellow</li>
                 <li class="menu">green</li>
